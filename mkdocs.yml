@@ -2,7 +2,7 @@ site_name: Dragons API
 site_description: This is a simple API to manage dragons.
 site_author: Daenerys Targaryen
 site_url: https://my-dragons.es
-repo_url: https://github.com/dragonstone-org/dragons-api
+repo_url: https://github.com/fernandApplied/dragons-api
 edit_uri: edit/main/docs
 
 plugins: 

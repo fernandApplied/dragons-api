@@ -32,7 +32,7 @@ También contiene una API RESTful para gestionar dragones, escrita en Rust y usa
 Tienes un par de opciones para ejecutar este proyecto:
 
 1. **Ejecutar Localmente**:
-    - Clona el repositorio: `git clone https://github.com/dragonstone-org/dragons-api.git`
+    - Clona el repositorio: `git clone https://github.com/fernandApplied/dragons-api.git`
     - Usa Dev Containers con Visual Studio Code.
     - Ejecuta el proyecto con `cargo run`.
 
